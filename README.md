@@ -1,70 +1,90 @@
-# 👋 Hi there, I'm Namala Asish Praneeth (Asish-Praneeth-N)
+# 👋 Hey, I'm **Namala Asish Praneeth**
 
-Welcome to my GitHub! I'm a passionate Computer Science and Engineering student at **KL University**, aspiring to build impactful, user-focused applications and platforms that solve real-world problems 🌏.
-
----
-
-## 🔍 About Me
-
-- 🎓 **B.Tech in Computer Science and Engineering**  
-  KL University, Vaddeswaram (2022–2026) | CGPA: 9.51  
-- 💼 Currently learning and building with **ReactJS**, **Spring Boot**, **MongoDB**, **Kotlin**, and more  
-- 🚀 Keen on full-stack development, mobile app development, and building platforms for social impact  
-- 💬 Let’s collaborate on web, mobile, and AI-integrated projects!  
+Welcome to my GitHub profile!  
+I’m a Computer Science student who loves building cool things — from full-stack apps to mobile applications and AI-powered tools.  
+If something adds value or solves a real problem, I want to build it.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 About Me
 
-**Languages**:  
-`Java` `JavaScript` `Kotlin` `C`  
-
-**Frontend**:  
-`ReactJS` `HTML` `CSS` `Tailwind CSS` `Flutter`
-
-**Backend & Database**:  
-`Spring Boot` `Node.js` `MySQL` `MongoDB` `Firebase`
-
-**Tools & Platforms**:  
-`GitHub` `Postman` `Figma` `VS Code`
+- 🎓 **B.Tech CSE (2022–2026)** at KL University  
+- 💻 Full-stack & mobile app developer  
+- ⚡ Love experimenting with new tech, frameworks, and real-world ideas  
+- 🚀 Working on improving my skills in backend engineering, UI/UX, and AI  
+- 💙 Passionate about creating simple, useful, and scalable products  
 
 ---
 
-## 🧠 Certifications
+## 🔧 Tech Stack
 
-- 🧩 Microsoft Azure AI Fundamentals — *May 2024*  
-- ☁️ Salesforce Certified AI Associate — *Oct 2024*  
-- 🔧 Red Hat Certified Enterprise Application Developer — *May 2024*
+### **Languages**
+`Java` `JavaScript` `TypeScript` `Kotlin` `C` `SQL`
 
----
+### **Frontend**
+`React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `Flutter` `React Native`
 
-## 📌 Projects
+### **Backend & Databases**
+`Spring Boot` `Node.js` `Express`  
+`MySQL` `MongoDB` `Firebase` `PostgreSQL`
 
-
-### 🧠 TENSIFY — *Mar 2025*
-**Tech**: ReactJS, Tailwind CSS, Spring Boot, MongoDB  
-A platform that collects freelance project ideas and manages submissions efficiently.  
-- Auth, dashboard, and responsive UI integrated
-- Real-time task and deadline tracking modules
+### **Tools**
+`Git` `GitHub` `Postman` `Figma` `VS Code` `IntelliJ` `Android Studio`
 
 ---
 
-## 🎯 Positions of Responsibility
+## 🚀 Featured Projects
 
-- 🎓 **Director of Java** — SOCC, KL University  
-- 🧠 **Core Member** — SOCC, KL University  
-- 🎮 **Vice Lead** — KL SAC Mobile Gaming Club
+### 🔹 **CRT Cell Management Portal**
+A full-stack platform used internally for student training, schedules, and admin workflows.
+
+### 🔹 **NexLearn — AI Learning Hub**
+An AI-powered learning app that generates lessons, quizzes, and flashcards automatically.
+
+### 🔹 **NewsEchoo — Newsletter System**
+A real-time publishing system with role-based access.
+
+### 🔹 **Mini Inverted Index Search Engine**
+A small search engine implementation using tokenization, inverted index, and TF-IDF.
 
 ---
 
-## 📫 Let’s Connect
+## 🏅 Certifications
 
-- 📧 **Email**: [asishpraneethnamala@gmail.com](mailto:asishpraneethnamala@gmail.com)  
+- Microsoft Azure AI–900  
+- Salesforce Certified AI Associate  
+- Red Hat Certified Enterprise Application Developer  
+
+---
+
+## 🧩 Roles & Communities
+
+- 🎓 **Director of Java — SOCC (School of Competitive Coding)**  
+- 🧠 **Core Member — SOCC**  
+- 🎮 **Vice Lead — KL SAC Mobile Gaming Club**
+
+---
+
+## 📈 GitHub Snapshot
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asish-Praneeth-N&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asish-Praneeth-N&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 **Email**: asishpraneethnamala@gmail.com  
 - 💼 **LinkedIn**: [asish-praneeth-namala](https://linkedin.com/in/asish-praneeth-namala-3930b9261/)  
-- 🌐 **GitHub**: [@Asish-Praneeth-N](https://github.com/Asish-Praneeth-N)  
-- 📱 **Phone**: +91-8977892005
+- 🌐 **GitHub**: [Asish-Praneeth-N](https://github.com/Asish-Praneeth-N)  
+- 📱 **Phone**: +91-8977892005  
 
 ---
 
-> “Code is not just a set of instructions, it's a tool for change.”
+### ✨ “I learn, I build, I improve — every day.”
 
+Thanks for visiting my profile! 😊  
