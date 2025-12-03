@@ -65,18 +65,6 @@ A small search engine implementation using tokenization, inverted index, and TF-
 
 ---
 
-## 📈 GitHub Snapshot
-
-<div align="center">
-[![Asish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asish-Praneeth-N&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Asish-Praneeth-N)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asish-Praneeth-N&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
-
 ## 📫 Connect With Me
 
 - 📧 **Email**: asishpraneethnamala@gmail.com  
